@@ -1,6 +1,6 @@
 {
   "name": "@direktspeed/docker-events",
-  "version": "0.0.0-pre0",
+  "version": "0.0.0-pre1",
   "description": "Handle Docker events",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "devDependencies": {
     "clarinet": "^0.12.3",
     "dockerode": "^2.5.8"
-  }
+  },
+  "dependencies": {}
 }
