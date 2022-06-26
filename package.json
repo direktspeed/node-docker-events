@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/direktspeed/node-docker-events#readme",
   "devDependencies": {
-    "clarinet": "^0.12.3",
+    "clarinet": "0.12.5",
     "dockerode": "3.3.2"
   },
   "dependencies": {}
